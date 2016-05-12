@@ -1,27 +1,27 @@
 # Jekyll configuration
 
-name: My blog
-description: A jekyll theme
+name: Harker's Open Everything Blog
+description: Musings on Open Data, Civic Hacking, DevOps and Civic Hacking
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://scotte.github.io/jekyll-clean
+url: https://rlh100.github.io
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: /jekyll-clean
+baseurl: 
 
 # This can be '' to hide the Github nav button
-github: 'scotte/jekyll-clean'
+github: 'rlh100/rlh100.github.io'
 
 # Set this to your UA-# value, or '' to disable the block completely
-gaaccount: ''
+gaaccount: 'rlh100'
 
 # The 'comments' setting enables comments. You'll need to select either
 # disqus or isso below to choose a comment system. Individual posts can
 # override 'comments' to disable on a post-by-post basis.
-comments: true
+comments: false
 
 # Set this to your public isso URL to enable comments via isso. Set to '' to disable isso.
 isso: ''
