@@ -1,2 +1,5 @@
-_cache
-_site
+.c9
+.DS_Store
+private
+_site/
+_cache/
