@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: Harker's Open Everything Blog
-description: Musings on Open Data, Civic Hacking, DevOps and Civic Hacking
+description: Musings on Open Data, Civic Hacking, DevOps and Continious Integration tools
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://rlh100.github.io
